@@ -1,4 +1,4 @@
-package grids
+package blgrids
 
 import (
 	"fmt"
